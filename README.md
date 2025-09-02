@@ -23,6 +23,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Implement a way to change the color of the text as well
+
 Describe any challenges encountered while building the app.
 
 Step 3: Connecting UI to Logic I had trouble opening the storyboard file and dragging the button to the ViewController class.
